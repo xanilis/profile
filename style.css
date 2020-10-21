@@ -39,7 +39,7 @@ p {
 }
 
 .img-circle {
- height: 100px;
+ height: 150px;
  width: auto;
  border-radius: 50%;
  border: 3px solid rgba(178,206,222, 0.7);
